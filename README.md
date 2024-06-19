@@ -145,23 +145,21 @@ L'analyse des données a permis de tirer des conclusions et de formuler des reco
 ### Visualisations
 
 ### Tendances des Ventes
-![Tendances des ventes 1](pdf_images/page_1_img_1.png)
-![Tendances des ventes 2](pdf_images/page_1_img_2.png)
+![Tendance quotidienne des ventes](https://github.com/chade1214/Analyse-de-vente/assets/156204486/e78f860a-9c48-465a-9a3e-e7b150e24d2e)
+![Tendance des vente par mois](https://github.com/chade1214/Analyse-de-vente/assets/156204486/e124b5e9-29b5-4920-b534-5f12abcc16c9)
 
 ### Répartition des Ventes par Type de Plat
-![Répartition des ventes par type de plat](pdf_images/page_1_img_5.jpeg)
-
-### Détails des Ventes par Plat
-![Détails des ventes par plat 1](pdf_images/page_1_img_6.png)
-![Détails des ventes par plat 2](pdf_images/page_1_img_7.png)
+![Vente par plat](https://github.com/chade1214/Analyse-de-vente/assets/156204486/5521a145-53a5-4f3a-b032-78788beb93cb)
 
 ### Performance des Ventes
-![Performance des ventes 1](pdf_images/page_1_img_8.png)
-![Performance des ventes 2](pdf_images/page_1_img_9.png)
+![Performance Vente 1](https://github.com/chade1214/Analyse-de-vente/assets/156204486/fc0187ee-c470-4681-8edc-2283f3544b4b)
+![Perfomance vente 2](https://github.com/chade1214/Analyse-de-vente/assets/156204486/9cbf0463-6654-4758-8420-0904fbf36bb9)
+![Performance Vente 3](https://github.com/chade1214/Analyse-de-vente/assets/156204486/0c2cc61c-a730-420f-aae2-8f9c17a0738d)
+![Performance vente 4](https://github.com/chade1214/Analyse-de-vente/assets/156204486/7c0330c4-c0c9-45d8-ac39-ff1f0944fc98)
 
 ### Meilleurs et Pires Plats
-![Meilleurs et pires plats 1](pdf_images/page_1_img_10.png)
-![Meilleurs et pires plats 2](pdf_images/page_1_img_11.png)
+![Meilleur et vente 1](https://github.com/chade1214/Analyse-de-vente/assets/156204486/e4de1c6d-ff8b-4ad9-bd09-197f43c0e405)
+![Meilleurs et pire vente 2](https://github.com/chade1214/Analyse-de-vente/assets/156204486/29dc65d6-a510-43e3-80fe-570c250a02c0)
 
 ## Limitations
 
@@ -181,7 +179,7 @@ L'analyse des données a permis de tirer des conclusions et de formuler des reco
 ## Télécharger le Rapport Complet
 
 Téléchargez le rapport complet en PDF pour plus de détails :
-[Rapport PDF](path/to/your/report.pdf)
+[Rapport PDF.pdf](https://github.com/user-attachments/files/15905775/Rapport.PDF.pdf)
 
 ## Contact
 
